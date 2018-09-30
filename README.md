@@ -1,1 +1,2 @@
 # OS1-Projekat
+Ovaj projekat predstavlja jezgro operativnog sistema koji podržava niti (multithreaded operating system) sa deljenjem vremena (time sharing) odrađeno na predmetu Operativni sistemi 1 na 2. godini Elektrotehničkog fakulteta u Beogradu. Tekst celog zadatka je u datoteci "Projektni zadatak 2015.pdf". Rađen je u Eclipse C/C++ razvojnom okruženju koristeći Borlandov C/C++ kompajler (bc31).
